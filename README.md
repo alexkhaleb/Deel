@@ -11,4 +11,8 @@ The Assert test file is a validation test to be sure that all the elements are c
 
 The Exception test file is done by sending empty fields except the date. In here we validate all the exception red fields. - Negative Registry
 
+The Long Data test file sends dummy and unreal data and try to register a user with incorrect data. - Negative Registry.
+
 The Complete Registry is the Happy Path file in order to perform a Registry with my account, with my data and my information. - Positive Registry.
+
+All this tests are supported by the Test Matrix file.
