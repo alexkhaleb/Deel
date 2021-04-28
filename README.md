@@ -1,7 +1,9 @@
 # Deel
 Deel-QA_AutomationManual_candidate_exam
 
-I uploaded 4 test cases, they were written in Selenium. This cases can be imported to any GhostInspector account and run it.
+I uploaded 4 test cases, they were written in Selenium. 
+
+This cases can be imported to any GhostInspector account and run with it. They work with selenium so any selenium API could read it.
 
 The LOGIN test file is the Entry file to login with my credentials.
 
